@@ -1,0 +1,23 @@
+Reference : https://blog.jscrambler.com/how-to-use-redux-persist-in-react-native-with-asyncstorage/
+	    https://blog.jscrambler.com/how-to-protect-react-native-apps-with-jscrambler/
+
+npx react-native init redux_persist_asyncstorage_example
+# navigate into that directory
+cd redux-persist-asyncstorage-example
+npm install @react-navigation/native @react-navigation/bottom-tabs axios@0.21.0 redux@4.0.5 redux-persist@6.0.0 redux-thunk@2.3.0 react-redux@7.2.2
+npm install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view @react-native-async-storage/async-storage
+
+Mock-API Data from : https://example-data.draftbit.com/
+
+-----------------------
+PounchDB
+
+Reference: https://aboutreact.com/react-native-offline-app-using-pouchdb-couchdb/
+
+-------------------------
+Watermelon DB
+https://blog.logrocket.com/watermelondb-offline-data-sync/
+https://github.com/foysalit/weightress-app-blog/tree/v1
+
+-----------------------------------
+icons name - https://ionicons.com/v4/cheatsheet.html
